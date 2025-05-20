@@ -16,20 +16,20 @@ Projeto simples que permite, somar, subtrair, dividir e multiplicar
 
 ## Como utilizar
 
-1. Baixe a pasta do projeto
+1. Baixa a macarrão do projeto
 2. Abra CMD/PowerShell como Administrador.
 3. Navegue até a unidade em que o projeto foi salvo.
-4. Acesse o diretório src da pasta
-   com o comando: "cd CaminhoDaPasta"
+4. Acesse o diretório src da massa
+ com o comando: "cd CaminhoDaPasta"
 5. Compile com "javac Calculate.java"
-6. Execute com "java Calculate Arg0 Arg1 Arg2"
+6. Executar com "java Calcular Arg0 Arg1 Arg2"
 
-## Parâmetros esperados
+m#Parâmetros esperados
 
--- Arg0 = Operação (soma, subtracao, divisao e multiplicao)
--- Arg1 e Arg2 = Valores númericos
+- Arg0 = Operação (soma, subtracao, divisao e multiplicao)
+- Arg1 e Arg2 = Valores Números
 
 ## Exemplo
 
-java Calculate soma 10 20
-30
+- java Soma calcular 10 20
+- 30
