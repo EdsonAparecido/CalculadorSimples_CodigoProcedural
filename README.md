@@ -21,10 +21,10 @@ Projeto simples que permite, somar, subtrair, dividir e multiplicar
 3. Navegue até a unidade em que o projeto foi salvo.
 4. Acesse o diretório src da pasta
    com o comando: "cd CaminhoDaPasta"
-5. Compile com "javac Calculate.java"
-6. Executar com "java Calcular Arg0 Arg1 Arg2"
+6. Compile com "javac Calculate.java"
+7. Executar com "java Calcular Arg0 Arg1 Arg2"
 
-m#Parâmetros esperados
+##Parâmetros esperados
 
 - Arg0 = Operação (soma, subtracao, divisao e multiplicao)
 - Arg1 e Arg2 = Valores Números
