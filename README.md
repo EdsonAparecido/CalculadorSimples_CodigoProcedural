@@ -16,7 +16,7 @@ Projeto simples que permite, somar, subtrair, dividir e multiplicar
 
 ## Como utilizar
 
-1. Baixa a macarrão do projeto
+1. Baixe a pasta do projeto
 2. Abra CMD/PowerShell como Administrador.
 3. Navegue até a unidade em que o projeto foi salvo.
 4. Acesse o diretório src da pasta
